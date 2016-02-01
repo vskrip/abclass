@@ -49,7 +49,7 @@ $active_record = TRUE;
 
 $db['default']['hostname'] = 'abclass.mysql';
 $db['default']['username'] = 'abclass_mysql';
-$db['default']['password'] = 'dbyqfpgc';
+$db['default']['password'] = '';
 $db['default']['database'] = 'abclass_db';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['dbprefix'] = '';
