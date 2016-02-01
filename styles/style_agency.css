@@ -1,0 +1,200 @@
+.divcenter {
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    padding-top: 20px;
+    text-align: left;
+}
+.divsearch {
+    text-align: left;
+    width: 100%;
+}
+.divcenter td {
+    color: #7d1114;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+}
+.divcenter th {
+    background-color: #7d1114;
+    color: #FFFFFF;
+}
+.divcenter a {
+    color: #7d1114;
+    font-size: 12px;
+}
+a.info {
+    text-decoration: underline;
+}
+a.info:hover {
+    text-decoration: none;
+}
+.searchres {
+    width: 100%;
+}
+.searchres th, td, th {
+    color: #7d1114;
+}
+.searchres tr.odd {
+}
+.searchres tr.even {
+}
+.divcenter .alert {
+    color: #FF0000;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: blink;
+}
+.divcenter .ok {
+    background-color: #80FF80;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-weight: bold;
+    height: 20px;
+    text-align: center;
+}
+.divcenter .rq {
+    background-color: #FFFF66;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-weight: bold;
+    height: 20px;
+    text-align: center;
+}
+.divcenter .rj {
+    background-color: #FF8080;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-weight: bold;
+    height: 20px;
+    text-align: center;
+}
+.divcenter .search_ok {
+    color: #006600;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.divcenter .search_rq {
+    color: #FF6600;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
+.divcenter .shortdesc {
+    color: #7d1114;
+    font-family: Verdana,Arial,Helvetica,sans-serif;
+    font-size: 10px;
+}
+.divcenter a.red {
+    color: red;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.divcenter a.red:visited {
+    color: red;
+    text-decoration: underline;
+}
+.divcenter a.red:active {
+    color: red;
+    text-decoration: underline;
+}
+.divcenter a.red:hover {
+    color: red;
+    text-decoration: underline;
+}
+.divcenter a.white {
+    color: white;
+    font-weight: bold;
+    text-decoration: underline;
+}
+.divcenter a.white:visited {
+    color: white;
+    text-decoration: underline;
+}
+.divcenter a.white:active {
+    color: white;
+    text-decoration: underline;
+}
+.divcenter a.white:hover {
+    color: white;
+    text-decoration: underline;
+}
+.divcenter a.white img {
+    border: medium none;
+    margin: 0;
+}
+.divcenter h1 {
+    font-size: 16px;
+    font-weight: bold;
+    margin: 5px 0 0;
+    padding: 0;
+}
+.divcenter li, .divcenter p {
+    margin: 0;
+    padding: 0;
+}
+.divcenter p {
+    margin-top: 3px;
+}
+.divcenter ul {
+    margin: 0 0 0 10px;
+    padding: 0 0 0 10px;
+}
+.divcenter .trlist {
+    display: none;
+}
+.divcenter .lbl0, .lbl1 {
+	background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #CCCCCC;
+    display: block;
+    float: left;
+    height: 45px;
+    margin: 0 2px 3px;
+    padding: 2px 0 0;
+    width: 50px;
+}
+.divcenter .lbl0 img, .divcenter .lbl1 img {
+    border: medium none;
+    margin: 0;
+}
+.divcenter td.sleft {
+    text-align: left;
+}
+.divcenter td.sright {
+    font-weight: bold;
+    text-align: right;
+}
+.divcenter .legend {
+    border: 1px solid #CCCCCC;
+    margin: 0 auto 15px;
+    padding: 15px 5px 5px;
+    position: relative;
+    width: 600px;
+}
+.divcenter div.title {
+	background: url(http://abclass.ru/img/line_bg.gif) repeat scroll 0 0;
+    border: medium none;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    left: 10px;
+    margin: 0;
+    padding: 0 10px;
+    position: absolute;
+    top: -12px;
+}
+.divcenter div.title h3, .divcenter h3, .divcenter h4 {
+    color: #7d1114;
+    font-family: Arial,Helvetica,sans-serif;
+    font-size: 13px;
+    font-weight: bold;
+    margin: 0;
+    padding: 0;
+}
+img.gallery {
+    width: 150px;
+}
+.divcenter table.search, #formsearch {
+    background: none repeat scroll 0 0;
+    float: none;
+    height: auto;
+    margin: 0 auto;
+    padding: 0;
+    width: 100%;
+}

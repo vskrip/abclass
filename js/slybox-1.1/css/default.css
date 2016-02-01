@@ -1,0 +1,333 @@
+html {
+height: 100%;
+padding:0px 20px;
+background:url(background.gif) repeat;
+}
+body {
+font: 11px 'Trebuchet MS',Arial,Helvetica,Verdana,sans-serif;
+color:#828282;
+background-color:#FFF;
+font-size:11px;
+
+padding:0px 0;
+
+}
+
+.featureExplained h2 {
+font-family:"Trebuchet MS", Verdana, Helvetica, Arial, Sans-serif;
+font-size:1.3em;
+font-weight:1000;
+color: #0761b1; 
+margin-top:0px;
+}
+
+h2 {
+font-family:"Trebuchet MS", Verdana, Helvetica, Arial, Sans-serif;
+font-size:1.3em;
+font-weight:1000;
+color: #0761b1; 
+margin-top:20px;
+}
+
+h1 {
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+font-weight:700;
+color:#0761b1;
+}
+
+h3 {
+font: italic bold 13px Georgia,Helvetica,Verdana,sans-serif;
+margin-bottom:3px;
+padding-bottom:2px;
+margin-top:20px;
+
+}
+
+.releas{
+font:  bold 10px Georgia,Helvetica,Verdana,sans-serif;
+margin-left:5px;
+
+}
+h4 {
+font-family:"Trebuchet MS", Verdana, Helvetica, Arial, Sans-serif;
+font-size:1.3em;
+}
+
+img {
+border:0;
+border-width:0;
+}
+h2 {
+    color: #848484;
+    font-family: Georgia,"Times New Roman",Times,serif;
+    font-size: 13px;
+    font-style: italic;
+    font-weight: normal;
+    margin-bottom: 0.5em;
+}
+
+.headerbar {
+font-family:Verdana, Helvetica, Arial, sans-serif;
+color:#828282;
+font-size:10px;
+background:#ebebeb none repeat-x 0 0;
+margin-top:12px;
+margin-bottom:4px;
+background-color:#F1F1F1;
+background-image:url(../forum/styles/prosilver/theme/images/bg_header.gif);
+padding:0 5px;
+}
+
+
+
+.navbar {
+font-family:Verdana, Helvetica, Arial, sans-serif;
+color:#828282;
+background-color:#FFF;
+font-size:10px;
+margin:5px;
+padding:0 10px;
+
+}
+
+.navbar1,.navbar2{
+font-family:Verdana, Helvetica, Arial, sans-serif;
+color:#828282;
+margin:5px;
+list-style: none;
+}
+.navbar1 {
+background-color:#FFF;
+font-size:10px;
+color:white;
+padding:0 10px;
+background-image:url(../forum/styles/prosilver/theme/images/bg_header1.gif);
+}
+
+.navbar2 {
+font-size:11px;
+background-color:#cadceb;
+padding:0 10px;
+}
+
+
+
+/**/
+span.corners-top1,span.corners-bottom1,span.corners-top1 span,span.corners-bottom1 span {
+font-size:1px;
+line-height:1px;
+display:block;
+height:5px;
+background-repeat:no-repeat;
+}
+
+span.corners-top1 {
+background-position:0 0;
+background-image:url(../forum/styles/prosilver/theme/images/corners_left1.png);
+margin:0 -5px;
+}
+
+span.corners-top1 span {
+background-position:100% 0;
+background-image:url(../forum/styles/prosilver/theme/images/corners_right1.png);
+}
+
+span.corners-bottom1 {
+background-position:0 100%;
+clear:both;
+background-image:url(../forum/styles/prosilver/theme/images/corners_left1.png);
+margin:0 -5px;
+}
+
+span.corners-bottom1 span {
+background-position:100% 100%;
+background-image:url(../forum/styles/prosilver/theme/images/corners_right1.png);
+}
+
+.rules span.corners-top1 {
+margin:0 -10px 5px;
+}
+
+.rules span.corners-bottom1{
+margin:5px -10px 0;
+}
+.navbar1 span.corners-top1,.navbar1 span.corners-bottom1,.navbar1 span.corners-top1,.navbar1 span.corners-bottom1,.navbar2 span.corners-top1,.navbar2 span.corners-bottom1,.navbar3 span.corners-top1,.navbar3 span.corners-bottom1 {
+margin:0 -10px;
+}
+/**/
+span.corners-top,span.corners-bottom,span.corners-top span,span.corners-bottom span {
+font-size:1px;
+line-height:1px;
+display:block;
+height:5px;
+background-repeat:no-repeat;
+}
+
+span.corners-top {
+background-position:0 0;
+background-image:url(../forum/styles/prosilver/theme/images/corners_left.png);
+margin:0 -5px;
+}
+
+span.corners-top span {
+background-position:100% 0;
+background-image:url(../forum/styles/prosilver/theme/images/corners_right.png);
+}
+
+span.corners-bottom {
+background-position:0 100%;
+clear:both;
+background-image:url(../forum/styles/prosilver/theme/images/corners_left.png);
+margin:0 -5px;
+}
+
+span.corners-bottom span {
+background-position:100% 100%;
+background-image:url(../forum/styles/prosilver/theme/images/corners_right.png);
+}
+
+.rules span.corners-top {
+margin:0 -10px 5px;
+}
+
+.rules span.corners-bottom {
+margin:5px -10px 0;
+}
+.navbar span.corners-top,.navbar span.corners-bottom,.navbar1 span.corners-top,.navbar1 span.corners-bottom,.navbar2 span.corners-top,.navbar2 span.corners-bottom,.navbar3 span.corners-top,.navbar3 span.corners-bottom {
+margin:0 -10px;
+}
+ul.linklist li {
+width:auto;
+font-size:1.1em;
+line-height:2.2em;
+}
+
+.navlinks {
+padding-bottom:1px;
+margin-bottom:1px;
+border-top:1px solid #FFF;
+border-bottom:1px solid #FFF;
+font-weight:700;
+}
+
+div.rules {
+font-size:1.1em;
+width:300px;
+background-color:#ECD5D8;
+color:#BC2A4D;
+margin:10px 0;
+padding:0 10px;
+}
+
+
+
+ul.navlinks {
+border-bottom-color:#FFF;
+}
+
+
+a:link,a:active,a:visited {
+color:#828282;
+color:#6372A7;
+font-weight:700;
+text-decoration:none;
+outline:none;
+}
+a:hover {
+color:#ffffff;
+font-weight:700;
+text-decoration:none;
+background-color:#6372A7;
+}
+
+ul.menu {
+list-style:none;
+margin:0 0;
+padding:0 0;
+font: bold 11px 'Trebuchet MS',Arial,Helvetica,Verdana,sans-serif;
+}
+ul.menu li {
+border:2px solid #fff;
+background: #f9edd4;
+list-style-position:inside;
+padding:3px 3px;
+padding-left:8px ;
+cursor:pointer;
+
+}
+
+ul.menu li:hover{
+border:2px solid #EFEFEF;
+background: #f8db9e;
+list-style-position:inside;
+padding:3px 3px;
+cursor:pointer;
+padding-left:8px ;
+}
+
+.bestg{
+float:left;
+padding-bottom:10px;
+
+list-style-position:inside;
+margin:0;
+padding:0;
+}
+.bestg li:hover {
+cursor:pointer;
+}
+
+
+.featureExplained{
+ background: none repeat scroll 0 0 #F7F7F7;
+    color: #808080;
+    height: 100px;
+    left: 0;
+
+    position: absolute;
+    text-align: justify;
+    top: 0;
+    width: 300px;
+}
+
+.code{
+    background: none repeat scroll 0 0 #F7F7F7;
+    clear: both;
+    color: #606060;
+    font-size: 11px;
+    margin-bottom: 1.2em;
+    overflow: auto;
+    position: relative;
+    width: 100%;
+}
+div.code .padder {
+    border: 1px solid #F1F1F1;
+    padding: 6px;
+}
+
+.slybox{
+border:2px solid #EFEFEF;
+    background: none repeat scroll 0 0 #f9edd4;
+    clear: both;
+    color: #606060;
+    font-size: 11px;
+    margin-bottom: 1.2em;
+	padding:5px;
+    position: relative;
+    width: 100%;
+}
+.starbox{
+border:2px solid #EFEFEF;
+    background: none repeat scroll 0 0 #f9edd4;
+    clear: both;
+    color: #606060;
+    font-size: 11px;
+    margin-bottom: 1.2em;
+	padding:5px;
+    position: relative;
+    width: 100%;
+}
+
+span.light {
+    background: none repeat scroll 0 0 #EFEFEF;
+}

@@ -1,0 +1,179 @@
+html {
+height: 100%;
+width:auto;
+}
+.topsly{
+ overflow: hidden;
+ position:relative;
+ z-index:2500;
+ height: 100%;
+}
+.tlsly{
+width:12px;
+height:12px;
+overflow:hidden;
+float:left;
+background-color:#fff;
+}
+.trsly{
+position: absolute;
+right:0px;
+width:12px;
+height:12px;
+overflow:hidden;
+float:left;
+}
+.blsly{
+width:12px;
+height:12px;
+overflow:hidden;
+float:left;
+background-color:#fff;
+}
+.brsly{
+position: absolute;
+right:0px;
+width:12px;
+height:12px;
+overflow:hidden;
+float:left;
+}
+.slymaincontainer{
+ background: #fff;
+ position:relative;
+ height:100%;
+ z-index:2555;
+}
+.botsly{
+height: 12px;
+overflow: hidden;
+position: relative;
+}
+.bagie{
+background:#fff;
+position:absolute;
+left:12px;
+height:12px;
+float:left;
+}
+.sscontainer{
+ margin:0 10px;
+}
+#slyconteiner {
+ position: absolute; 
+ left:-5555px;
+ top:0px;
+ z-index:5555;
+ display:block;
+ width: auto !important; /* Major browsers other than IE 6 and below respect the importance immediately */
+ width: 1px; /* IE 6  */
+}
+#slycomment{
+ z-index:2500;
+ position:relative;
+ font-family: Arial, Helvetica, sans-serif;
+ font-size:10pt;
+ font-weight:bold;
+ color: #999;
+ margin:0;
+ padding-left:10px;
+}
+#slycomment a{
+font-style:Arial,Helvetica,sans-serif;
+color:#999999;
+}
+#slyclose{
+ background:url("close_large.png") no-repeat;
+ position:absolute;
+ top:0%;
+ right:10px;
+ z-index:5500;
+ height:22px;
+ width:77px;
+ cursor:pointer;
+}
+
+#slycommenttext{
+ font-family: Arial, Helvetica, sans-serif;
+ font-size:10pt;
+ color:#999999;
+ text-align:justify;
+ padding-top:23px;
+}
+#slyload{
+background:url('load.png');
+ width: 45px;
+ height: 41px;
+ position:absolute;
+ z-index:2500;
+ left:-5555px;
+ top:0;
+}
+#slyloader{
+ background:url('ajax-loader.gif');
+ width: 24px;
+ height: 24px;
+ margin-left:10px;
+ margin-top:9px;
+ display:block;
+}
+#slyshadow {
+ width: 100%; 
+ height: 100%;
+ background: #000; 
+ text-align: center;
+ position:absolute;
+ left:0;
+ top:0;
+ opacity:0.6;
+ filter:alpha(opacity=60);
+ z-index:300;
+}
+
+#slynext,#slynextdemo{
+ background:url('next.gif');
+ width:38px;
+ height:32px;
+ position:absolute;
+ z-index:6555;
+ cursor:pointer;
+ opacity:0.6;
+ filter:alpha(opacity=60);
+ left:-2555px;
+}
+#slyprev,#slyprevdemo{
+ background:url('prev.gif');
+ width:38px;
+ height:32px;
+ position:absolute;
+ z-index:3500;
+ cursor:pointer;
+ filter:alpha(opacity=60);
+ opacity:0.6;
+ left:-2555px;
+}
+.minislybox{
+cursor:pointer;
+border:#EFEFEF solid 2px;
+opacity:0.7;
+filter:alpha(opacity=70);
+}
+
+.errorbigimg{
+text-align:center;
+background:#f5abab;
+width:300px;
+height:200px;
+color:red;
+}
+.topslydemo{
+ background:url("top.gif") repeat-x 0 -27px;
+ position:absolute;
+ left:-5555px;
+}
+
+.featureExplained{
+z-index: 220; 
+opacity: 0;
+filter: alpha(opacity=0)
+}
